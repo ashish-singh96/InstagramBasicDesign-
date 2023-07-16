@@ -25,21 +25,6 @@ This project aims to develop the backend functionality for an Instagram-like app
 - Maven/Gradle
 - PostgreSQL/MySQL (or any other supported database)
 
-## Getting Started
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/instagram-backend.git
-   ```
-
-2. Change to the project directory:
-
-   ```bash
-   cd instagram-backend
-   ```
 
 ### Configuration
 
